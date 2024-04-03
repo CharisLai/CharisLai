@@ -1,9 +1,8 @@
 <h1 align="center">Hi there👋, I'm CharisLai</h1>
 <h3 align="center">A curious about new things software internet junior developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **React.js and TypeScript**
 
-- 🤝 I’m looking for Job about **internet development**
+- 🤝 I’m **System Integration Engineer**
 
 - 📝 I regularly write articles on [https://medium.com/@griffin8418](https://medium.com/@griffin8418)
 
