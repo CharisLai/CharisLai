@@ -4,7 +4,7 @@
 
 - 🤝 I’m **System Integration Engineer**
 
-- 📝 I regularly write articles on [https://medium.com/@griffin8418](https://medium.com/@griffin8418)
+- 📝 I regularly write articles on [Charis's Pensieve](https://charislai.github.io/Pensieve/) & [medium.com/@griffin8418](https://medium.com/@griffin8418)
 
 - 📫 How to connect me **griffin8418@gmail.com**
 
